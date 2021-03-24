@@ -1,7 +1,3 @@
-#string: Hello World
-#skipping: x x x x x     #characters marked with x
-#final str: HloWorld
-
 #string
 str="Hello World"
 
